@@ -1,5 +1,5 @@
 
-<img style="width:100%" src="https://miro.medium.com/v2/resize:fit:1358/1*Js-o5Lsxh7v0DmTmsLavTg.gif">
+<img style="width:100%;" src="https://miro.medium.com/v2/resize:fit:1358/1*Js-o5Lsxh7v0DmTmsLavTg.gif">
 
 
 
