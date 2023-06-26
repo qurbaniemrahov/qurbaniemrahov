@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Qurbani Amrakhov</h1>
-<h3 align="center">I'm developer</h3>
+
+<img style="width:100%" src="https://miro.medium.com/v2/resize:fit:1358/1*Js-o5Lsxh7v0DmTmsLavTg.gif">
 
 
 
