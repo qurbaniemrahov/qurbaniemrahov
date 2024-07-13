@@ -1,15 +1,16 @@
 ## Believe in God, set goals and never give up
 
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*Js-o5Lsxh7v0DmTmsLavTg.gif" alt="Motivational Image" width="100%" height="250px">
+![Motivational Image](https://miro.medium.com/v2/resize:fit:1358/1*Js-o5Lsxh7v0DmTmsLavTg.gif)
 
 ### Skills:
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3-alt"></i> CSS
+- <i class="fab fa-bootstrap"></i> Bootstrap
+- <i class="fab fa-js"></i> JavaScript
+- <i class="fas fa-code"></i> jQuery
+- <i class="fab fa-php"></i> PHP
+
 
 
 
