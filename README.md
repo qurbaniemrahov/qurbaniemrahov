@@ -1,4 +1,4 @@
-## Believe in God, set goals and never give up
+## Believe in God, set your goals, and never give up
 
 ![Motivational Image](https://miro.medium.com/v2/resize:fit:1358/1*Js-o5Lsxh7v0DmTmsLavTg.gif)
 
